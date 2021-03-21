@@ -1,0 +1,7 @@
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\bin\Debug\HomeWork_10_indexator.exe.config
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\bin\Debug\HomeWork_10_indexator.exe
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\bin\Debug\HomeWork_10_indexator.pdb
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\obj\Debug\HomeWork_10_indexator.csprojAssemblyReference.cache
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\obj\Debug\HomeWork_10_indexator.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\obj\Debug\HomeWork_10_indexator.exe
+C:\Users\irish\My documents\C#\HomeWork_10_indexator\obj\Debug\HomeWork_10_indexator.pdb
